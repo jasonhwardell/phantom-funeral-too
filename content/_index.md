@@ -21,3 +21,5 @@ It is a good design and I like it.
 
 ![art:alt text](https://phantomfuneral.com/games/adventures/trfosk/SkeletonMaiden.jpg)
 { .half .float-left }
+
+<img src="https://phantomfuneral.com/games/adventures/trfosk/SkeletonMaiden.jpg" alt="skeleton maiden" width="450" />
