@@ -27,4 +27,5 @@ menu:
 
 params:
   description: Ephemerality by the Phantom Funeral Press.
-  images: /logo.png
+  images: 
+    - /logo.png
