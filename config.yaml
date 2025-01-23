@@ -5,7 +5,7 @@ title:   Phantom Funeral Press 202X
 
 module:
   imports:
-    - path: github.com/platenio/platen/modules/platen
+    - path: github.com/platenio/platen/tree/main/modules/platen
 
 menu:
   before:
