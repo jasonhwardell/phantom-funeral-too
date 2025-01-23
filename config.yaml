@@ -2,9 +2,9 @@
 # Update to your own settings for URL/title
 baseURL: https://phantom-funeral-too.netlify.app/
 title:   Phantom Funeral Press 202X
-BookLogo: /logo.png
+logo: /logo.png
 
-# BookTheme: "dark"
+BookTheme: "dark"
 
 module:
   imports:
