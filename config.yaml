@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://platen.io/schemas/config/schema.json
 # Update to your own settings for URL/title
-baseURL: https://platen-template.netlify.app/
-title:   Platen Example
+baseURL: https://phantom-funeral-too.netlify.app/
+title:   Phantom Funeral Press 202X
 
 module:
   imports:
@@ -18,4 +18,4 @@ menu:
       weight: 10
 
 params:
-  description: My site description.
+  description: Ephemerality by the Phantom Funeral Press.
