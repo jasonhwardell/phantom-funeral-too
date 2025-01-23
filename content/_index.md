@@ -20,4 +20,4 @@ It is a good design and I like it.
 - Probably some more things.
 
 ![art:alt text](https://phantomfuneral.com/games/adventures/trfosk/SkeletonMaiden.jpg)
-{ style="width: 450px" }
+{ .half .float-left }
