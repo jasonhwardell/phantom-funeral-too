@@ -19,6 +19,5 @@ It is a good design and I like it.
 - Thinking about lowest-tech zine creation.
 - Probably some more things.
 
-```html
-<img src="https://phantomfuneral.com/games/adventures/trfosk/SkeletonMaiden.jpg" alt="skeleton maiden" />
-```
+![art:a art](https://phantomfuneral.com/games/adventures/trfosk/SkeletonMaiden.jpg)
+{ .half .float-left}
