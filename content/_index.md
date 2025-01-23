@@ -1,20 +1,20 @@
 ---
 title: Home
-summary: >-
-  This is an example site for digital books, built on Platen!
+summary: This is the handsome new Phantom Funeral Press. Accept no substitutions.
+date: 2025-01-23T18:31:27.576Z
+platen:
+  enable_comments: true
 ---
 
-This is a place with some very good games I made. It uses hugo and markdown to turn some plaintext
-drafts into a website.
+This is the place for the triflings of Phantom Funeral Press, an illusory imprint from the remains
+of Dayton, Ohio, USA. Browse adventures, shorter things, and blogs just over there on the menu. You
+can do it!
 
-You can install this website as an app, it's a fully functional PWA!
+The site design and implementation is done using Mikey Lombardi's [platen.io](https://platen.io/).
+It is a good design and I like it.
 
-You can checkout two different versions of Picaroons, either via the menu or these links:
+## /now - January 2025
 
-1. [Picaroons as a multi-page project](/picaroons)
-1. [Picaroons as a single-page project](/picaroons-sp)
-
-You can also checkout the blog via the menu or [this link](/posts).
-
-While not currently implemented, you can include multiple language versions of your site and switch
-between them via the menu.
+- Rebuilding my platen site. It's fun!
+- Thinking about lowest-tech zine creation.
+- Probably some more things.
