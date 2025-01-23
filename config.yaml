@@ -1,10 +1,6 @@
 # yaml-language-server: $schema=https://platen.io/schemas/config/schema.json
 # Update to your own settings for URL/title
 baseURL: https://phantom-funeral-too.netlify.app/
-title:   Phantom Funeral Press 202X
-logo: /logo.png
-
-BookTheme: "dark"
 
 module:
   imports:
@@ -31,3 +27,4 @@ menu:
 
 params:
   description: Ephemerality by the Phantom Funeral Press.
+  images: /logo.png
