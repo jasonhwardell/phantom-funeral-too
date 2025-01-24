@@ -18,8 +18,3 @@ It is a good design and I like it.
 - Rebuilding my platen site. It's fun!
 - Thinking about lowest-tech zine creation.
 - Probably some more things.
-
-![art:alt text](https://phantomfuneral.com/games/adventures/trfosk/SkeletonMaiden.jpg)
-{ .half .float-left }
-
-<img src="https://phantomfuneral.com/games/adventures/trfosk/SkeletonMaiden.jpg" alt="skeleton maiden" width="450" />
