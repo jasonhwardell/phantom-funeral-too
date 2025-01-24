@@ -61,7 +61,7 @@ MD030:
 MD031:
   list_items: true
 MD032: true
-MD033: true
+MD033: false
 MD034: true
 MD035:
   style: ---

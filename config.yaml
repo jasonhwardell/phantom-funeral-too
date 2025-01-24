@@ -7,6 +7,15 @@ module:
   imports:
     - path: github.com/platenio/platen/modules/platen
 
+# This is to force HTML rendering. Cutting off the seatbelts.
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+
 menu:
   before:
     - name: Blog
@@ -19,3 +28,9 @@ menu:
 
 params:
   description: Ephemerality by the Phantom Funeral Press.
+  BookTheme: "dark"
+  Platen:
+    Display:
+      Logo:
+        URL: /logo.png
+      
