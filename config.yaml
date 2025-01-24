@@ -33,4 +33,7 @@ params:
     Display:
       Logo:
         URL: /logo.png
-      
+
+Platen:
+  BookTheme:
+    Mode: "dark"
