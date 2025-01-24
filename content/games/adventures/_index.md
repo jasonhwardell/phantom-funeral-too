@@ -4,5 +4,8 @@ summary: Some adventures?
 weight: 1
 platen:
     menu:
-        flatten-section: true
+        flatten_section: true
 ---
+
+```section
+```

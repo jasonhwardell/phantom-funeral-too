@@ -2,8 +2,6 @@
 title: Home
 summary: This is the handsome new Phantom Funeral Press. Accept no substitutions.
 date: 2025-01-23T18:31:27.576Z
-platen:
-  enable_comments: true
 ---
 
 This is the place for the triflings of Phantom Funeral Press, an illusory imprint from the remains
