@@ -28,7 +28,6 @@ menu:
 
 params:
   description: Ephemerality by the Phantom Funeral Press.
-  BookTheme: "dark"
   Platen:
     Display:
       Logo:
