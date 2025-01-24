@@ -125,9 +125,6 @@ He's decided to let bygones be, provided he is reimbursed the expenses of chasin
 ## ENCOUNTER TABLES
 These tables are to be interpreted wildly, liberally, and irresponsibly by the Chronicler.
 
-{{< tabs "ootb-encounters" >}}
-
-{{< tab "Desert Encounters" >}}
 | d66 | Desert Encounter                                                        |
 |----|------------------------------------------------------------------|
 | 11 | Corp Suits, twice as many as before                              |
@@ -167,9 +164,6 @@ These tables are to be interpreted wildly, liberally, and irresponsibly by the C
 | 65 | Colony of intelligent scorpions                                  |
 | 66 | One big spider, sad                                              |
 
-{{< /tab >}}
-
-{{< tab "Mountain Encounters" >}}
 | d66  | Mountain Encounter                                                             |
 |----|-----------------------------------------------------------------------|
 | 11 | Ancient hermit, so lonely                                             |
@@ -209,9 +203,6 @@ These tables are to be interpreted wildly, liberally, and irresponsibly by the C
 | 65 | Scenic overlook                                                       |
 | 66 | Sudden ground-to-cloud thunderstorm                                   |
 
-{{< /tab >}}
-
-{{< tab "Grasslands Encounters" >}}
 | d66 | Grasslands Encounter                                                  |
 |----|------------------------------------------------------------|
 | 11 | Stranded space-faring mega yacht                           |
@@ -250,7 +241,3 @@ These tables are to be interpreted wildly, liberally, and irresponsibly by the C
 | 64 | Three wandering seers of past, present, future             |
 | 65 | Fiercely-protected farmlands                               |
 | 66 | Standing stones vibrating with energy                      |
-
-{{< /tab >}}
-
-{{< /tabs >}}
