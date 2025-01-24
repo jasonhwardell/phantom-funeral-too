@@ -2,5 +2,7 @@
 title: Adventures
 summary: Some adventures?
 weight: 1
+platen:
+    menu:
+        flatten-section: true
 ---
-Here is a list of some adventures:
