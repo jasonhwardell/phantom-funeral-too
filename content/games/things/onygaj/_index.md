@@ -28,7 +28,9 @@ description: |
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-| #  | Corp Name 1 | Corp Name 2    | Department of           | For a Boss Who                           |
+It's really that bad out there, huh? Happens to the best of us, I suppose. Fortunately, we've found a great position that we think suits your skillset perfectly. You can start today, if you'd like! Let's just get some paperwork squared away and you can jump right into your new career at...
+
+| #  | Name 1 | Name 2    | Department of           | For a Boss Who                           |
 |----|-------------|----------------|-------------------------|------------------------------------------|
 | 1  | Technical   | Dynamics       | Accounting              | Naps under their desk                    |
 | 2  | Tactical    | Solutions      | Adjudication            | Sneezes constantly                       |
