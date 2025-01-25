@@ -22,9 +22,12 @@ menu:
       url: /posts
       weight: 10
   after:
-    - name: Platen Documentation
-      url: https://platen.io/
+    - name: jasonwardell.itch.io
+      url: https://jasonwardell.itch.io
       weight: 10
+    - name: Built With Platen
+      url: https://platen.io/
+      weight: 30
 
 params:
   description: Ephemerality by the Phantom Funeral Press.
