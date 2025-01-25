@@ -4,7 +4,7 @@ summary: Shorter pieces of things?
 weight: 2
 platen:
     menu:
-        flatten_section: true
+        collapse_section: true
 ---
 
 ```section

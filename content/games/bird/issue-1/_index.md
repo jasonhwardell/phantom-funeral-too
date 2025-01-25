@@ -5,6 +5,9 @@ date: 2020-08-21
 description: |
     This is issue one, the digital version containing four adventures, a dream, and one unusual item. This edition may be traded to a traveling bard in exchange for a mold-caked map of the forbidden canals.
 weight: 1
+platen:
+    menu:
+        collapse_section: true
 ---
 ## the Bird of Passage: Adventures and Other Things
 
