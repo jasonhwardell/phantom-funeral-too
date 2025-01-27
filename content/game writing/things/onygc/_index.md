@@ -5,7 +5,6 @@ date: 2022-04-21
 description: |
     Gross. Nasty all-around. Super yuck. You got cursed, pal, there’s no two ways about it. Take a deep breath (unless that’s how you got cursed) and calm down a little. Tell us what’s going on and maybe we can figure out how to help. Maybe...
 ---
-
 ## Oh No! You Got Cursed
 
 ```

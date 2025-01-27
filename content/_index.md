@@ -16,3 +16,7 @@ It is a good design and I like it.
 - Rebuilding my platen site. It's fun!
 - Thinking about lowest-tech zine creation.
 - Probably some more things.
+
+## Listen
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2730919894/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://shortsword.bandcamp.com/album/shortsword">SHORTSWORD by SHORTSWORD</a></iframe>
